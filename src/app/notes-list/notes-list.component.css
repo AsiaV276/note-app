@@ -1,0 +1,32 @@
+.notes {
+    width: 80%;
+  }
+  .notes li {
+    margin-bottom: 20px;
+    list-style: none;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 15px;
+  }
+  
+.container {
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+  }
+  .note-title {
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 11pt;
+    color: #000;
+  }
+  .note-text {
+    display: block;
+    text-align: left;
+    color: gray;
+    font-size: 10pt;
+  }
+  
