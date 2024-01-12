@@ -10,7 +10,6 @@ import { MenuComponent } from '../menu/menu.component';
       <h1>
         {{title}}
       </h1>
-      <app-menu></app-menu>
     </section>
     
   `,
